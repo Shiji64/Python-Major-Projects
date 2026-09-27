@@ -1,0 +1,25 @@
+{
+    "name": "shiji",
+    "class": "Mage",
+    "level": 1,
+    "exp": 45,
+    "hp": 96,
+    "max_hp": 100,
+    "mana": 150,
+    "max_mana": 150,
+    "attack": 30,
+    "defense": 10,
+    "gold": 120,
+    "crit_chance": 15,
+    "crit_damage": 1.5,
+    "weapon": null,
+    "armor": null,
+    "potions": [
+        "Small Health Potion",
+        "Small Health Potion",
+        "Small Mana Potion"
+    ],
+    "inventory": [],
+    "bosses_defeated": 0,
+    "enemies_defeated": 1
+}
